@@ -1,1 +1,4 @@
-# Tugas-6
+# Nama: Muhammad Naufal Zaki
+
+# Kelas: SKU2B
+
