@@ -1,6 +1,8 @@
 ## Nama: Muhammad Naufal Zaki
 ## Kelas: SKU2B
 
+![Symmetric Multiprocessing drawio](https://github.com/user-attachments/assets/cb9eac92-b6f4-4350-803c-2eecb0595af2)
+
 - Sisi kiri
   
 Multiple Processor Architecture yang menerapkan model Master-Slave Multiprocessing. Dalam model ini, terdapat satu Master Processor yang bertugas mengatur dan mendistribusikan tugas ke beberapa Slave Processor. Setiap Slave Processor memiliki memori sendiri dan semua unit terhubung melalui System Bus yang juga mengakses perangkat I/O. Model ini memiliki karakteristik terpusat, di mana kontrol penuh ada pada Master Processor. Meskipun implementasinya sederhana, arsitektur ini berisiko mengalami bottleneck karena semua perintah dan data harus melalui Master, sehingga performanya sangat bergantung pada kinerja Master tersebut. Model ini banyak ditemukan pada superkomputer lama dan beberapa sistem server awal.
